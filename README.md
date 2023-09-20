@@ -1,7 +1,1 @@
-My first readme
-
-clear
-pwd
-cd ?root
-cd /root
-cd /
+*another readme for 0x01-git
