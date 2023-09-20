@@ -1,0 +1,14 @@
+#!/bin/bash
+echo "ALX"
+cd /
+cd \
+cd /root
+cat /bash
+^C
+cd ~
+pwd
+cd ..
+cd ..
+
+
+cd /root
